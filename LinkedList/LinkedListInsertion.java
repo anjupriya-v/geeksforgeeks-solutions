@@ -1,3 +1,14 @@
+/*
+class Node{
+    int data;
+    Node next;
+    
+    Node(int x){
+        data = x;
+        next = null;
+    }
+}
+*/
 class Solution
 {
     Node insertAtBeginning(Node head, int x)
