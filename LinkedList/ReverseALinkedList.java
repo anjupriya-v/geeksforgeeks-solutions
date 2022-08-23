@@ -18,6 +18,9 @@ class Solution
     Node reverseList(Node head)
     {
         Node slow=null;
+        if(head==null){
+            return head;
+        }
         Node fast=head.next;
         Node current=head;
         while(current!=null){
