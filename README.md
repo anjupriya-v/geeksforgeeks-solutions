@@ -8,7 +8,7 @@ This repository hosts all my GeeksForGeeks practice problem solutions in Java, c
 
 ---
 
-##  Topics & Files
+## 📂 Topics & Files
 
 | Topic       | Contents |
 |-------------|----------|
