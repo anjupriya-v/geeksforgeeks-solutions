@@ -18,6 +18,7 @@ This repository hosts all my GeeksForGeeks practice problem solutions in Java, c
 | **[Matrix](Matrix/)**        | Matrix manipulation problems |
 | **[Stack](Stack/)**         | Stack data structure solutions |
 | **[Strings](Strings/)**      | String-based logic problems |
+| **[TwoPointer](TwoPointer/)**      | Two Pointer based problems |
 
 ---
 
